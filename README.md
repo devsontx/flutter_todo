@@ -2,7 +2,7 @@
 
 Yet another Todo app, now using Flutter.
 ```false```
-```dart false```
+```java false```
 
 ## Getting Started
 
