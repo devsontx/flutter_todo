@@ -1,8 +1,6 @@
 # Flutter Todo
 
 Yet another Todo app, now using Flutter.
-```false```
-```java false```
 
 ## Getting Started
 
